@@ -1,3 +1,6 @@
+Notable performance enhancements: read operations saw a reduction in response time, CRUD operations
+experienced a 95.6% improvement, and file read/write operations showed an 85% increase in efficiency.
+
 ![Image](https://github.com/user-attachments/assets/3b790eb7-ef1b-4e83-be3f-39be7aebb309)
 
 ![Image](https://github.com/user-attachments/assets/912392fa-4ec8-4e15-bf9b-a2cf007a0d87)
