@@ -16,3 +16,9 @@ experienced a 95.6% improvement, and file read/write operations showed an 85% in
 ![Image](https://github.com/user-attachments/assets/b5d79629-a8ad-4e82-a0f4-cbacaa8edbd0)
 
 ![Image](https://github.com/user-attachments/assets/c6ce3c21-9b3d-4690-9ff0-4d2cc5cbf234)
+
+![Image](https://github.com/user-attachments/assets/99dacc8f-025c-4406-8cad-0d8d0f4311c5)
+
+![Image](https://github.com/user-attachments/assets/8f41796d-7128-4f2c-96a6-465e4c2688c8)
+
+![Image](https://github.com/user-attachments/assets/0f05e398-d451-4576-9111-2e5c7e9c6903) 
